@@ -61,7 +61,6 @@ const config = {
             position: "left",
             label: "Learn",
           },
-          { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/dityath",
             label: "GitHub",
